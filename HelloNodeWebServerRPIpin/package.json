@@ -1,0 +1,12 @@
+{
+  "name": "hello-node-web-server-rpipin",
+  "version": "0.0.0",
+  "description": "HelloNodeWebServerRPIpin",
+  "main": "server.js",
+  "author": {
+    "name": "leivos",
+    "email": ""
+  },
+  "target_arch": "ARM",
+  "platform": "uwp"
+}
